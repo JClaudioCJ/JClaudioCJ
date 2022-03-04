@@ -1,12 +1,3 @@
-
-
-
-## Seja bem vindo, Eu sou .
-
-- Sou Graduado em Redes de Computadores com Pós-graduação em Engenharia DevOps.
-- Trabalho como SysAdmin.  
-- Atualmente estou estudando para me tornar Desenvolvedor. 
-
 ## Contatos
 
 <div> 
